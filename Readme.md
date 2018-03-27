@@ -1,4 +1,4 @@
-**#: Mejoras App Abastible:**
+**#Mejoras App Abastible**
 
 “ Mejorar la experiencia de los usuarios en la app, logrando retener a quienes la utilizan mediante nuevas funcionalidades e información en el proceso de compra de balón, y seguimiento del pedido.”
 
