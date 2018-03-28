@@ -10,7 +10,7 @@
 
 ## ¿Cómo lo hicimos?
 
-Al comenzar el proceso realizamos una reunión donde como equipo UX y Front end Developer nos pusimos de acuerdo en que App selecionar y porque. Considerando los tiempos sin perder nuestro objetivo, llegamos a la conclusión de que la App selecionada seria Abastible.
+- Al comenzar el proceso realizamos una reunión donde como equipo UX y Front end Developer nos pusimos de acuerdo en que App selecionar y porque. Considerando los tiempos sin perder nuestro objetivo, llegamos a la conclusión de que la App selecionada seria Abastible.
 Según sus caraterísticas visualmente es muy atractiva , hay coherencia entre un paso y otro , los elementos se mantienen y su lenguaje es cercano, pero ¿cuáles fueron los elementos que consideramos debían mejorarse?
 
 - Al ingresar hay un registro con tu número celular, al cual te envían un código de confirmación para ingresar. Si el código no llega se genera uno automático, lo que deja con la sensación de que esto realmente no funciona.
@@ -42,16 +42,15 @@ Según sus caraterísticas visualmente es muy atractiva , hay coherencia entre u
 
 **Investigación**
 
-Teniendo nuestra hipótesis del problema nos encargamos de confirmar nuestras suposiciones, es por esto que revisamos en la web los reclamos más frecuentes , en la plataforma de play store comentarios y en reclamos.cl
+- Teniendo nuestra hipótesis del problema nos encargamos de confirmar nuestras suposiciones, es por esto que revisamos en la web los reclamos más frecuentes , en la plataforma de play store comentarios y en reclamos.cl
 
-A demás de esto buscamos usuarios de la aplicación que ya hayan hecho un pedido
-y nos contaron su experiencia, en general se encuentra conforme con la app pero no así con el despacho, ya que quien tiene suerte recibe el pedido dentro de la hora de plazo, David parra, comenta que su despacho según el horario seleccionó llegó dos horas tarde y que esperar te hace perder tiempo ya que debes esperar en tu casa sin poder salir temiendo a que lleguen y no te encuentren. Y finalmente su pedido no llegó gracias a la app si no que, dentro de su búsqueda por respuestas encontró un número de whatsapp desde donde volvió a solicitar el gas.
+- A demás de esto buscamos usuarios de la aplicación que ya hayan hecho un pedido y nos contaron su experiencia, en general se encuentra conforme con la app pero no así con el despacho, ya que quien tiene suerte recibe el pedido dentro de la hora de plazo, David parra, comenta que su despacho según el horario seleccionó llegó dos horas tarde y que esperar te hace perder tiempo ya que debes esperar en tu casa sin poder salir temiendo a que lleguen y no te encuentren. Y finalmente su pedido no llegó gracias a la app si no que, dentro de su búsqueda por respuestas encontró un número de whatsapp desde donde volvió a solicitar el gas.
 También se hicieron llamadas al call center de abastible donde se les preguntó a los ejecutivos cuál era la pregunta o las consultas más frecuentes con respecto a  la app, y comentaban que las relacionadas con la llegada del despacho, confirmando si fue recibido, saber cuánto falta para que llegue y si existe algún problema  cuando están fuera del plazo de entrega.
 
 ![pantallas](assets/reclamo1.jpg)
 ![pantallas](assets/reclamo2.jpg)
 
-Realizamos un benchmark con parámetros de la evaluación en Usabilidad, comparando la App Abastible con otras App del rubro, en el cúal nos dimos cuenta que Abastible estaba por debajo de la competencia.
+- Realizamos un benchmark con parámetros de la evaluación en Usabilidad, comparando la App Abastible con otras App del rubro, en el cúal nos dimos cuenta que Abastible estaba por debajo de la competencia.
 
 ![pantallas](assets/benchmark1.png)
 ![pantallas](assets/benchmark2.png)
@@ -61,18 +60,18 @@ Realizamos un benchmark con parámetros de la evaluación en Usabilidad, compara
 
 **Sketch**
 
-Sin perder el objetivo quisimos rediseñar y dar un nueva funcionalidad a la sección que faltaba. Llegando al siguiente skecth.
+- Sin perder el objetivo quisimos rediseñar y dar un nueva funcionalidad a la sección que faltaba. Llegando al siguiente skecth.
 
 ![pantallas](assets/sketch1.jpg)
 ![pantallas](assets/sketch2.jpg)
 
 
-Pusimos en marcha nuestro wireframes de alta resolución para poder testearlo y medir su nueva funcionalidad. Lo cual resulto un éxito, obteniendo un buen feedback de los usuarios.
+- Pusimos en marcha nuestro wireframes de alta resolución para poder testearlo y medir su nueva funcionalidad. Lo cual resulto un éxito, obteniendo un buen feedback de los usuarios.
 
 ![tres pantallas](assets/sofi.jpg)
 
 **Conclusión**
 
-Gracias a esta información confirmamos que los usuarios necesitan información sobre su despacho , nuestra idea fue agregar en el botón  “ tu pedido está en camino , la opción de darle seguimiento a tu despacho. El cual fue creado por las desarrolladoras de nuestro equipo con React.
+- Gracias a esta información confirmamos que los usuarios necesitan información sobre su despacho , nuestra idea fue agregar en el botón  “ tu pedido está en camino , la opción de darle seguimiento a tu despacho. El cual fue creado por las desarrolladoras de nuestro equipo con React.
 
 Accede al repositorio de las desarrolladoras aquí: https://github.com/AGuerrav/hackathonReact_
