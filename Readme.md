@@ -53,25 +53,25 @@ También se hicieron llamadas al call center de abastible donde se les preguntó
 
 Realizamos un benchmark con parámetros de la evaluación en Usabilidad, comparando la App Abastible con otras App del rubro, en el cúal nos dimos cuenta que Abastible estaba por debajo de la competencia.
 
-![pantallas](assets/benchmark1)
-![pantallas](assets/benchmark2)
-![pantallas](assets/benchmark3)
+![pantallas](assets/benchmark1.png)
+![pantallas](assets/benchmark2.png)
+![pantallas](assets/benchmark3.png)
 
 **Ideación**
 
-Sketch
+**Sketch**
 
 Sin perder el objetivo quisimos rediseñar y dar un nueva funcionalidad a la sección que faltaba. Llegando al siguiente skecth.
 
-![pantallas](assets/sketch1)
-![pantallas](assets/sketch2)
+![pantallas](assets/sketch1.jpg)
+![pantallas](assets/sketch2.jpg)
 
 
 Pusimos en marcha nuestro wireframes de alta resolución para poder testearlo y medir su nueva funcionalidad. Lo cual resulto un éxito, obteniendo un buen feedback de los usuarios.
 
 ![tres pantallas](assets/sofi.jpg)
 
-Conclusión
+**Conclusión**
 
 Gracias a esta información confirmamos que los usuarios necesitan información sobre su despacho , nuestra idea fue agregar en el botón  “ tu pedido está en camino , la opción de darle seguimiento a tu despacho. El cual fue creado por las desarrolladoras de nuestro equipo con React.
 
