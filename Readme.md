@@ -70,6 +70,8 @@ También se hicieron llamadas al call center de abastible donde se les preguntó
 
 ![tres pantallas](assets/sofi.jpg)
 
+[LINK wireframes](https://marvelapp.com/85ge7i7/screen/40137366)
+
 **Conclusión**
 
 - Gracias a esta información confirmamos que los usuarios necesitan información sobre su despacho , nuestra idea fue agregar en el botón  “ tu pedido está en camino , la opción de darle seguimiento a tu despacho. El cual fue creado por las desarrolladoras de nuestro equipo con React.
