@@ -70,7 +70,7 @@ También se hicieron llamadas al call center de abastible donde se les preguntó
 
 ![tres pantallas](assets/sofi.jpg)
 
-[LINK wireframes](https://marvelapp.com/85ge7i7/screen/40137366)
+[LINK WIREFRAMES MARVELAPP HD V.1](https://marvelapp.com/85ge7i7/screen/40137366)
 
 **Conclusión**
 
