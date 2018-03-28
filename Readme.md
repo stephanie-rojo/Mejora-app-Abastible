@@ -1,11 +1,17 @@
-**# Mejoras App Abastible**
-
-“ Mejorar la experiencia de los usuarios en la app, logrando retener a quienes la utilizan mediante nuevas funcionalidades e información en el proceso de compra de balón, y seguimiento del pedido.”
-
+# Mejoras App Abastible
 
 ![Logo Abastible](assets/Logo-abastible.jpg)
 
-:Con nuestro equipo de trabajo nos dimos como desafío generar alguna mejora a la app de abastible ¿Por qué abastible y no otra? esto se debe a que descargamos la aplicación y la probamos, visualmente es muy atractiva , hay coherencia entre un paso y otro , los elementos se mantienen y su lenguaje es cercano ,pero ¿cuáles fueron los elementos que consideramos debían mejorarse?:
+## Desarrollado para LABORATORIA
+
+## Objetivos
+
+- Mejorar la experiencia de los usuarios en una App que tenga bajas puntuaciones y descargas en plataformas como Play Store. logrando retener a quienes la utilizan mediante nuevas funcionalidades e información en el proceso de compra de balón, y seguimiento del pedido.
+
+## ¿Cómo lo hicimos?
+
+Al comenzar el proceso realizamos una reunión donde como equipo UX y Front end Developer nos pusimos de acuerdo en que App selecionar y porque. Considerando los tiempos sin perder nuestro objetivo, llegamos a la conclusión de que la App selecionada seria Abastible.
+Según sus caraterísticas visualmente es muy atractiva , hay coherencia entre un paso y otro , los elementos se mantienen y su lenguaje es cercano, pero ¿cuáles fueron los elementos que consideramos debían mejorarse?
 
 - Al ingresar hay un registro con tu número celular, al cual te envían un código de confirmación para ingresar. Si el código no llega se genera uno automático, lo que deja con la sensación de que esto realmente no funciona.
 
@@ -32,6 +38,10 @@
 
 ## Validando nuestra problemática
 
+## Proceso
+
+**Investigación**
+
 Teniendo nuestra hipótesis del problema nos encargamos de confirmar nuestras suposiciones, es por esto que revisamos en la web los reclamos más frecuentes , en la plataforma de play store comentarios y en reclamos.cl
 
 A demás de esto buscamos usuarios de la aplicación que ya hayan hecho un pedido
@@ -41,10 +51,28 @@ También se hicieron llamadas al call center de abastible donde se les preguntó
 ![pantallas](assets/reclamo1.jpg)
 ![pantallas](assets/reclamo2.jpg)
 
+Realizamos un benchmark con parámetros de la evaluación en Usabilidad, comparando la App Abastible con otras App del rubro, en el cúal nos dimos cuenta que Abastible estaba por debajo de la competencia.
+
+![pantallas](assets/benchmark1)
+![pantallas](assets/benchmark2)
+![pantallas](assets/benchmark3)
+
+**Ideación**
+
+Sketch
+
+Sin perder el objetivo quisimos rediseñar y dar un nueva funcionalidad a la sección que faltaba. Llegando al siguiente skecth.
+
+![pantallas](assets/sketch1)
+![pantallas](assets/sketch2)
+
+
+Pusimos en marcha nuestro wireframes de alta resolución para poder testearlo y medir su nueva funcionalidad. Lo cual resulto un éxito, obteniendo un buen feedback de los usuarios.
+
+![tres pantallas](assets/sofi.jpg)
+
+Conclusión
+
 Gracias a esta información confirmamos que los usuarios necesitan información sobre su despacho , nuestra idea fue agregar en el botón  “ tu pedido está en camino , la opción de darle seguimiento a tu despacho. El cual fue creado por las desarrolladoras de nuestro equipo con React.
 
 Accede al repositorio de las desarrolladoras aquí: https://github.com/AGuerrav/hackathonReact_
-
-# Mejoras en prototipo:
-
-![tres pantallas](assets/sofi.jpg)
